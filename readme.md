@@ -1,3 +1,5 @@
+Đây là chương trình mô phỏng lại việc giải gần đúng nghiệm của phương trình bằng phương pháp chia đôi và tính gần đúng tích phân bằng phương pháp Simpson
+
 Hướng dẫn cài đặt và chạy cho window:
 Khuyến cáo sử dụng text editor/IDE Visual Studio Code và tải xuống compiler với link sau https://github.com/mstorsjo/llvm-mingw/releases/download/20240518/llvm-mingw-20240518-msvcrt-i686.zip, sau khi tải xong, giải nén và add đường dẫn thư mục bin trong thư mục chính đã giải nén vào trong biến môi trường PATH của user và restart lại vscode, sau đó mở terminal trong vscode vã gõ clang--version để kiểm tra xem vscode đã nhận compiler chưa.Nếu thông báo:
 clang version 18.1.6 (https://github.com/llvm/llvm-project.git 1118c2e05e67a36ed8ca250524525cdb66a55256)
